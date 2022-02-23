@@ -1,0 +1,19 @@
+.p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#d1{
+    color: blue;
+    font-size: 36px;
+}
+
+.p.two{
+    font-size: 24px;
+}
+
+#d2{
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: bold;
+}
